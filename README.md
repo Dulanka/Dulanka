@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 <h1 align="center">Hi 👋, I'm Kavindu Dulanka</h1>
-<h3 align="center">A passionate UX Designer and frontend developer from Sri lanka</h3>
+<h3 align="center">A passionate UX Engineer and frontend developer from Sri lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://n.sinaimg.cn/sinacn16/564/w800h564/20180823/1ee2-hicsiav6220654.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanka&label=Profile%20views&color=0e75b6&style=flat" alt="dulanka" /> </p>

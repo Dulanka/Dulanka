@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://dulanka-hindle-portfolio-10.vercel.app/)
+- 👨‍💻 All of my projects are available at [(https://kavindu.framer.website/)]
 
 - 💬 Ask me about **UX Designs**
 

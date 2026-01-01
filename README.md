@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kavindudulanka1234@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I like mastering skills most people overlook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
